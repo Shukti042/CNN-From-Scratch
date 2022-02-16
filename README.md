@@ -11,7 +11,7 @@ classification task. There are six basic components in the neural network:
 - **Flattening layer :** it will convert a (series of) convolutional filter maps to a column vector.
 - **Softmax layer :** it will convert final layer projections to normalized probabilities.
 
-The model architecture should be given in a text file. A sample architecture is given in the input file for convenience. Two models were trained on the given architecture  on MNIST and CIFAR-10 dataset both for 5 epochs and the evaluation scores are given in the files mnist_report.txt and CIFAR-10_report.txt.
+The model architecture should be given in a text file. A sample architecture is given in the input file for convenience. Two models were trained on the given architecture  on MNIST and CIFAR-10 dataset both for 5 epochs and the evaluation scores are given in the files [mnist_report.txt](https://github.com/Shukti042/CNN-From-Scratch/blob/main/mnist_report.txt) and [CIFAR-10_report.txt](https://github.com/Shukti042/CNN-From-Scratch/blob/main/CIFAR-10_report.txt).
 
 ## How to run
 
