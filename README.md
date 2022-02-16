@@ -16,6 +16,6 @@ The model architecture should be given in a text file. A sample architecture is 
 ## How to run
 
 ```bash
-$ python cnn.py <input_architecture_file>
+$ python 1605042.py <input_architecture_file>
 ```
 
